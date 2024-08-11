@@ -1,3 +1,4 @@
 # SPRINT 1
 
-## MS2 - Design Thinking Process Practice
+## [Micro Sprint 2 – Design Thinking Process Practice](./MS2)
+
