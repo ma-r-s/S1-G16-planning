@@ -1,12 +1,5 @@
 # Micro Sprint 2 – Design Thinking Process Practice
 
-## Course Information
-- **Course:** ISIS-3510: Construcción de Aplicaciones Móviles
-- **Department:** Ingeniería de Sistemas y Computación
-- **Institution:** Universidad de los Andes
-- **Location:** Edificio Mario Laserna | Carrera 1 Este No.19 A – 40 Piso 7° Bogotá, Colombia
-- **Website:** [Departamento de Ingeniería de Sistemas y Computación](http://sistemas.uniandes.edu.co)
-
 ## Deadline
 - **Date:** August 17th, 2024
 - **Time:** 5:00 am (GMT-5)
