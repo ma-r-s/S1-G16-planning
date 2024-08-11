@@ -4,10 +4,7 @@
 - **Date:** August 17th, 2024
 - **Time:** 5:00 am (GMT-5)
 
-## Deliverable Overview
-This page outlines the deliverables for the Micro Sprint 2 activity. Ensure all contributions are documented before the deadline to avoid penalties.
-
-### Deliverables
+## Deliverables
 
 1. **Problem List**
    - List the four problems selected from the O1 activity.
