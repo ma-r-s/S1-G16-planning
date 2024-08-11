@@ -1,6 +1,6 @@
 # Micro Sprint 2 – Design Thinking Process Practice
 
-## Deadline
+### Deadline
 - **Date:** August 17th, 2024
 - **Time:** 5:00 am (GMT-5)
 
