@@ -7,8 +7,10 @@
 # Deliverables
 
 ## 1. **Problem List**
-   - List the four problems selected from the O1 activity.
-   - **:warning: Note:** Failure to deliver this will result in a non-graded submission.
+   - University gastronomic offer
+   - Food Waste in Bogota
+   - University Marketplace / Bartering App
+   - Student Initiatives App
 
 ## 2. **Interview Structure**
    - Include the interview structure used for each interview.
