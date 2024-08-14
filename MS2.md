@@ -29,12 +29,35 @@
    - **Interview Requirements:**
      - 4 interviews for groups of 4 members
 
+### Interview structure for University gastronomic offer
+
+
+| **Question**                                                                 | **Purpose**                                                             |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| 1. What is your name and connection to the university?                       | To establish the identity of the interviewee and gather demographic data.|
+| 2. How would you describe your experience with the dining options around the university? | To understand the interviewee's perspective and experiences regarding the food options available. |
+| 3. What factors are most important to you when choosing a place to eat?      | To identify key factors that influence the interviewee's dining choices. |
+| 4. How often do you eat out near the university, and what types of food do you prefer? | To explore the interviewee’s dining habits and preferences.               |
+| 5. What challenges do you face when trying to find new places to eat?        | To uncover any difficulties the interviewee encounters in discovering new dining options. |
+| 6. What features would you find useful in an app that lists all dining options around the university? | To gather ideas on potential solutions that could improve the dining experience. |
+| 7. If you had a food business near the university, what tools or platforms would help you attract more students? | To explore the interviewee’s perspective as a potential food business owner. |
+
 ## 3. **Interview Summary**
    - A single audio summary with relevant segments, max 5 minutes long.
    - Link complete audio files/transcripts for each interview.
 
 ## 4. **Situational Analysis**
    - Identify 4 complete situations per interview using the "What," "How," "Why" methodology.
+
+### Situational Analysis for University gastronomic offer
+
+| **Situation**                       | **What?**                                                                                                                                                   | **How?**                                                                                           | **Why?**                                                                                                                                                  | **Who?**                                              |
+|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| **1**                     | The interviewee is describing their experience with the high prices of dining options around the university.                                                | The interviewee seems frustrated by the limited affordable options available.                     | They have a limited budget, making it challenging to afford higher-priced meals regularly.                                                                    | A student on a tight budget, balancing academics and finances. |
+| **2**                     | The interviewee mentions frequently visiting a specific restaurant due to its consistent quality and fair pricing.                                           | They speak positively and with satisfaction when describing their regular visits to the restaurant. | They value consistent quality and affordability, which meets their expectations for a reliable dining experience.                                             | A regular customer who values predictability and fair pricing.  |
+| **3**                     | The interviewee discusses the challenge of finding places that are open early for breakfast.                                                                 | They express concern about the lack of early morning options, indicating this impacts their daily routine. | The interviewee has an early class schedule, making it difficult to find breakfast before their day begins.                                                   | A student with early classes needing convenient breakfast options. |
+| **4**                     | The interviewee expresses interest in an app that lists all dining options, including detailed menus and prices.                                             | They show enthusiasm for the idea, highlighting the convenience it would offer in choosing where to eat. | The interviewee values detailed information that can help them make informed decisions about where to dine.                                                    | A tech-savvy student who values convenience and information.     |
+
 
 ## 5. **Journey Maps**
    - Deliver at least 2 journey maps using observational methodologies.
