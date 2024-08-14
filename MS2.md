@@ -51,8 +51,7 @@
 ### Interview 1: University gastronomic offer
 - Interviewer: Abel Arismendy
 - Interviewee: Juan José Sierra
-
-[Audio File](../tree/main/sprint-1/ms2/gastronomic-offer-interview-1.mp3)
+- [Audio File](../tree/main/sprint-1/ms2/gastronomic-offer-interview-1.mp3)
 
 ## 4. **Situational Analysis**
    - Identify 4 complete situations per interview using the "What," "How," "Why" methodology.
