@@ -48,6 +48,11 @@
    - A single audio summary with relevant segments, max 5 minutes long.
    - Link complete audio files/transcripts for each interview.
 
+### Interview 1: University gastronomic offer
+- Interviewer: Abel Arismendy
+- Interviewee: Juan José Sierra
+[Audio File](../sprint-1/MS2/)
+
 ## 4. **Situational Analysis**
    - Identify 4 complete situations per interview using the "What," "How," "Why" methodology.
 
