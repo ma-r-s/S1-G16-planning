@@ -31,22 +31,15 @@
 ### Interview structure for Food Waste in Bogota
 - Interviewer: Raul Santiago Rincon Corba
 - Interviewee: Lina Ojeda
+| Question | Purpose |
+| -- | -- |
+| 1. How aware are you of the issue of food waste? | To understand the interviewee's awareness of food waste and how it influences their daily habits. |
+| 2. What areas do you find most challenging when it comes to avoiding food waste? | To identify the biggest challenges the interviewee faces in trying to avoid food waste. |
+| 3. Have you ever tried buying food that’s close to its expiration date or surplus food at a discount? | To explore the interviewee's experience with purchasing surplus or near-expiration food. |
+| 4. How do you feel about the idea of an app that helps you reduce food waste by offering discounts on surplus food items? | To gauge the interviewee's interest in a technological solution to reduce food waste. |
+| 5. What features would make the app more useful for you? | To gather suggestions on how to improve the app and make it more appealing to potential users. |
+| 6. How often do you use mobile apps for grocery shopping or meal planning? | To understand the interviewee's current usage of similar apps and identify opportunities for the new app. |
 
-<html>
-<body>
-<!--StartFragment-->
-Question | Purpose
--- | --
-1. How aware are you of the issue of food waste? | To understand the interviewee's awareness of food waste and how it influences their daily habits.
-2. What areas do you find most challenging when it comes to avoiding food waste? | To identify the biggest challenges the interviewee faces in trying to avoid food waste.
-3. Have you ever tried buying food that’s close to its expiration date or surplus food at a discount? | To explore the interviewee's experience with purchasing surplus or near-expiration food.
-4. How do you feel about the idea of an app that helps you reduce food waste by offering discounts on surplus food items? | To gauge the interviewee's interest in a technological solution to reduce food waste.
-5. What features would make the app more useful for you? | To gather suggestions on how to improve the app and make it more appealing to potential users.
-6. How often do you use mobile apps for grocery shopping or meal planning? | To understand the interviewee's current usage of similar apps and identify opportunities for the new app.
-
-<!--EndFragment-->
-</body>
-</html>
 
 ### Interview structure for University gastronomic offer
 
