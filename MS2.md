@@ -39,8 +39,7 @@
 | 3. Have you ever tried buying food that’s close to its expiration date or surplus food at a discount?     | To explore the interviewee's experience with purchasing surplus or near-expiration food. |
 | 4. How do you feel about the idea of an app that helps you reduce food waste by offering discounts on surplus food items? | To gauge the interviewee's interest in a technological solution to reduce food waste.               |
 | 5.  What features would make the app more useful for you?        | To gather suggestions on how to improve the app and make it more appealing to potential users. |
-| 6. What features would you find useful in an app that lists all dining options around the university? | To gather ideas on potential solutions that could improve the dining experience. |
-| 7. How often do you use mobile apps for grocery shopping or meal planning? | To understand the interviewee's current usage of similar apps and identify opportunities for the new app. |
+| 6. How often do you use mobile apps for grocery shopping or meal planning? | To understand the interviewee's current usage of similar apps and identify opportunities for the new app. |
 ### Interview structure for University gastronomic offer
 
 - Interviewer: Abel Arismendy
