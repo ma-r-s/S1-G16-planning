@@ -64,7 +64,7 @@
 ### Interview 1: Food Waste in Bogota
 - Interviewer: Raul Santiago Rincon Corba
 - Interviewee: Lina Ojeda
-(AUDIO)
+- [Audio File](../tree/main/sprint-1/ms2/interviewlina.mp3)
 ### Interview 2: University gastronomic offer
 - Interviewer: Abel Arismendy
 - Interviewee: Juan José Sierra
