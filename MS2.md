@@ -41,6 +41,20 @@
 | 5. What features would make the app more useful for you?                      | To gather suggestions on how to improve the app and make it more appealing to potential users. |
 | 6. How often do you use mobile apps for grocery shopping or meal planning?   | To understand the interviewed current usage of similar apps and identify opportunities for the new app. |
 
+- Interviewer: Mario Alejandro Ruiz  
+- Interviewed: Luz Marina Campo
+
+| **Question**                                                                                                                | **Purpose**                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 1. Did you know that a lot of food in restaurants and supermarkets is thrown away even if it's still good to eat?       | To understand Luz Marina's awareness of food waste and its implications in her daily life.                                   |
+| 2. What do you think about the problem of food waste? Do you think it's a big issue in Colombia?                        | To gauge Luz Marina's perception of the severity of food waste in Colombia and her personal views on the matter.             |
+| 3. How do you currently deal with food that you don't consume at home? Do you save it, share it, or throw it away?      | To learn about Luz Marina's current habits related to food consumption and waste at home.                                    |
+| 4. If there were an app that allowed you to buy good quality food at a reduced price, would you use it? Why or why not? | To assess Luz Marina's interest in using an app that offers discounted surplus food, and the reasons behind her decision.    |
+| 5. How much would you be willing to pay for a portion of food sold through the app?                                     | To gather insights on Luz Marina's price sensitivity and what she considers a fair price for surplus food.                   |
+| 6. What would make it easier or more difficult for you to use an app like this?                                         | To identify potential barriers or enablers for Luz Marina's adoption of the app, including technology use and accessibility. |
+| 7. Do you think this app could help people in your community access more affordable food?                               | To explore Luz Marina's thoughts on the broader impact of the app on her community and its potential benefits.               |
+| 8. Do you have any ideas or suggestions to make this app better or more attractive?                                     | To invite Luz Marina to contribute ideas that could enhance the app’s usability and appeal to potential users like her.      |
+
 
 ### Interview structure for University gastronomic offer
 
@@ -65,11 +79,15 @@
 - Interviewer: Raul Santiago Rincon Corba
 - Interviewed: Lina Ojeda
 - [Audio File](../tree/main/sprint-1/ms2/interviewlina.mp3)
-### Interview 2: University gastronomic offer
+### Interview 2: Food Waste in Bogota
+- Interviewer: Mario Alejandro Ruiz
+- Interviewed: Luz Marina Campo
+- [Audio File](../tree/main/sprint-1/ms2/interviewluzma.mp3)
+### Interview 3: University gastronomic offer
 - Interviewer: Abel Arismendy
 - Interviewee: Juan José Sierra
 - [Audio File](../tree/main/sprint-1/ms2/gastronomic-offer-interview-1.mp3)
-### Interview 3: University gastronomic offer 
+### Interview 4: University gastronomic offer 
 - Interviewer: Luimarco carrascal
 - Interviewee: Lorena 
 - [Audio File](../tree/main/sprint-1/ms2/interviewLadyLoren.mp4)
@@ -92,6 +110,21 @@
 | **2**                     | The interviewed highlights the challenge of preventing food from going bad, especially with perishable items like seafood.                                           | They express frustration over how quickly certain foods spoil, making it difficult to avoid waste. | They recognize the difficulty in managing perishable items, which often leads to food spoilage.                                             | A consumer who is aware of the challenges of food storage and spoilage, particularly with fresh or perishable items.  |
 | **3**                     | The interviewed discusses their willingness to purchase discounted food nearing its expiration date, provided it is packaged and trustworthy.                                                                 | They are cautiously optimistic about buying near-expiration food if certain conditions are met. | The interviewed values food safety and packaging, which builds their trust in purchasing discounted items close to expiring.                                                   | A cautious shopper who values food safety and is open to discounts under the right circumstances. |
 | **4**                     | The interviewed shows interest in an app that offers discounts on surplus or near-expiration food items, but is hesitant about restaurant leftovers.                                             | They are intrigued by the concept but concerned about the practicality and safety of restaurant surplus. | The interviewed appreciates the potential savings and waste reduction but is wary of the quality and handling of leftover restaurant food.                                                    | A tech-savvy individual who is open to using apps for convenience and savings but remains cautious about food quality and safety.     |
+
+### Situational Analysis for Food Waste in Colombia
+- **Interviewer:** Mario Alejandro Ruiz
+- **Interviewed:** Luz Marina Campo
+
+| **Situation** | **What?**                                                                                                                                                              | **How?**                                                                                                | **Why?**                                                                                                                                      | **Who?**                                                                                                            |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **1**         | Luz Marina is aware that food waste is a significant problem in Colombia, particularly in areas like Abastos.                                                          | She acknowledges that a lot of food is wasted, and some people collect it out of necessity.             | She sees food waste as a result of over-purchasing and the disposal of good food that could be consumed.                                      | A community member who understands the scale of food waste and its impact on people in need.                        |
+| **2**         | Luz Marina does not frequently deal with food waste at home as her family manages food efficiently.                                                                    | They cook only what is needed and share leftovers to avoid waste.                                       | Her family practices careful food management to minimize waste and make the most of what is prepared.                                         | A household that actively works to minimize food waste through careful planning and sharing.                        |
+| **3**         | Luz Marina is open to buying discounted food nearing its expiration date, especially if the price is significantly lower.                                              | She is willing to buy food at reduced prices if it is offered at half or a third of the regular price.  | She values affordable options and is willing to purchase food at discounted rates to avoid waste.                                             | A pragmatic consumer who seeks value and is open to discounted food if it meets her expectations.                   |
+| **4**         | Luz Marina is interested in using an app that offers discounted surplus food but is concerned about the quality and safety of the food, particularly from restaurants. | She is cautious about the quality of restaurant leftovers but sees potential value in discounted items. | Her main concerns are the safety and quality of food from restaurants, which affects her willingness to use the app.                          | A cautious but interested potential user who values food quality and safety when considering new solutions.         |
+| **5**         | Luz Marina finds using mobile apps like Uber relatively straightforward, though she usually relies on others for help with technology.                                 | She has used Uber with assistance but prefers not to handle apps independently.                         | She is somewhat familiar with technology but may need support to navigate new applications like the proposed food waste app.                  | A user who is somewhat comfortable with technology but might need additional support to use new apps independently. |
+| **6**         | Luz Marina believes the app could be beneficial but is concerned about the practicalities and needs government intervention for broader change.                        | She sees potential in the app but also suggests broader systemic solutions to address food waste.       | She feels that while the app could help, larger systemic changes and government involvement are necessary to address the problem effectively. | An individual who supports technological solutions but also advocates for systemic change and government action.    |
+
+
 ### Situational Analysis for University gastronomic offer
 
 - Interviewer: Abel Arismendy
