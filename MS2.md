@@ -72,12 +72,12 @@
 ### Interview 3: University gastronomic offer 
 - Interviewer: Luimarco carrascal
 - Interviewee: Lorena 
-- [Audio File] (../tree/main/sprint-1/ms2/interviewLadyLoren.mp4)
+- [Audio File](../tree/main/sprint-1/ms2/interviewLadyLoren.mp4)
 ### Interview 4: University gastronomic offer 
 - Interviewer: Luimarco carrascal
 - Interviewee: Doris Bolivar
-- [Audio File] (../tree/main/sprint-1/ms2/interviewDorisPart1.mp4)
-- [Audio File] (../tree/main/sprint-1/ms2/interviewDorisPart2.mp4)
+- [Audio File](../tree/main/sprint-1/ms2/interviewDorisPart1.mp4)
+- [Audio File](../tree/main/sprint-1/ms2/interviewDorisPart2.mp4)
 
 ## 4. **Situational Analysis**
    - Identify 4 complete situations per interview using the "What," "How," "Why" methodology.
