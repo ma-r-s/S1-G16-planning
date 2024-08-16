@@ -22,6 +22,8 @@
       What is proposed is an application that brings together all these student initiatives, whether they are well known and consolidated initiatives, or those that are just starting, and that those who use this application can search the wide range of initiatives that exist, so that if they find a topic of interest, they can find in the application itself more details of what is done in that initiative (meeting place, activities carried out, etc.) and some contact information to be part of these groups.
 
       In this way, visibility is given to all initiatives, and these student groups can grow.
+[persona in figma....pdf](https://github.com/user-attachments/files/16637662/persona.in.figma.pdf)
+
 
 ## 2. **Interview Structure**
    - Include the interview structure used for each interview.
@@ -110,8 +112,6 @@
 ### Food Waste In Bogota 
 
 ![Customer Journey Map](https://github.com/user-attachments/assets/a6595e46-7ac3-4848-bc33-39ab74badd6e)
-
-![Customer Journey Map](https://github.com/user-attachments/assets/8d89a4b4-3c8c-45bc-b993-e08978bdd7c7)
 
 ![gastronomic offer journey map](https://github.com/user-attachments/assets/a92ac42c-5235-4852-a709-6266338654dd)
 
