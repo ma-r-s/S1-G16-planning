@@ -97,8 +97,11 @@
 
 
 ## 5. **Journey Maps**
-   - Deliver at least 2 journey maps using observational methodologies.
-   - Include images, photos, or sketches reflecting interview data.
+
+### Food Waste In Bogota 
+
+![Customer Journey Map](https://github.com/user-attachments/assets/a6595e46-7ac3-4848-bc33-39ab74badd6e)
+
 
 ## 6. **Brainstorming Process**
    - Describe the brainstorming process and solutions derived from it.
