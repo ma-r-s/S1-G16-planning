@@ -113,8 +113,6 @@
 
 ![Customer Journey Map](https://github.com/user-attachments/assets/8d89a4b4-3c8c-45bc-b993-e08978bdd7c7)
 
-![gastronomic offer journey map](https://github.com/user-attachments/assets/a92ac42c-5235-4852-a709-6266338654dd)
-
 ## 6. **Brainstorming Process**
 
 - Describe the brainstorming process and solutions derived from it.
