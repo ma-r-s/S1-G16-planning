@@ -104,8 +104,11 @@
 
 
 ## 6. **Brainstorming Process**
-   - Describe the brainstorming process and solutions derived from it.
-   - Solutions should be based on interviews, situations, and journey maps.
+
+- Describe the brainstorming process and solutions derived from it.
+![team-11-brainstorm](https://github.com/user-attachments/assets/5d748fe5-bf34-47a7-b61c-87b1844d71f7)
+
+
 
 ## 7. **Prototype Video**
    - Build a video of the solution prototype (blueprint).
